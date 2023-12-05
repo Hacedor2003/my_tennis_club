@@ -2,7 +2,7 @@
   "name": "my_tennis_club",
   "version": "1.0.0",
   "description": "Proyecto creado con ayuda de la web WS3",
-  "main": "index.js",
+  "main": "manage.py",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "runserver":"py manage.py runserver",
@@ -11,6 +11,6 @@
     "shell":"py manage.py shell"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hacedor",
   "license": "ISC"
 }
