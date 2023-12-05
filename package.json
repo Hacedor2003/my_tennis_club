@@ -5,8 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "runserver":"py manage.py runserver",
     "migrate":"py manage.py migrate",
-    "makemigration":"py manage.py makemigrations members"
+    "makemigration":"py manage.py makemigrations members",
+    "shell":"py manage.py shell"
   },
   "keywords": [],
   "author": "",
