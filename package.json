@@ -1,0 +1,14 @@
+{
+  "name": "my_tennis_club",
+  "version": "1.0.0",
+  "description": "Proyecto creado con ayuda de la web WS3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "migrate":"py manage.py migrate",
+    "makemigration":"py manage.py makemigrations members"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
